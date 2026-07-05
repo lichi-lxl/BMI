@@ -21,7 +21,7 @@ int main (void){
 	printf (" >=30\t\tObesidad\n");
 	
 	if(bmi >= 30){
-		printf("\nTe encontras en obsidad\n");
+		printf("\nTe encontras en obesidad\n");
 	} else if (bmi >= 25){
 		printf("\nTe encontras en sobrepeso\n");
 	} else if(bmi >= 18.5){
